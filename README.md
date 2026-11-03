@@ -1,8 +1,8 @@
 [README.md](https://github.com/user-attachments/files/34310701/README.md)
-Editor for Linux
+HTML Editor for Linux
 
 # <img width="292" height="62" alt="SiteForge" src="https://github.com/user-attachments/assets/de38ff87-67be-4044-a1ff-87f15511a4b0" />
-
+<img src="screenshots/screenshot-1.png" width="800" alt="SiteForge main window">
 is a fast, no-nonsense HTML editor for Linux, written in Python with PyQt6 and QScintilla. It is built for people who write web pages by hand and want a tidy, familiar tool: syntax colouring, tag helpers, an HTML checker, spell checking and one-click previews in all of your browsers.
 
 Press **F1** inside SiteForge at any time to open the built-in help.
@@ -95,6 +95,8 @@ SiteForge works without these, but two features rely on them:
 3. Save the page, then press `F12` to see it in your default browser.
 4. Run **Tools > Run HTML Tidy** to check your markup, and click any message to jump straight to the problem.
 5. Press `F1` for the full help.
+6. 
+<img src="screenshots/screenshot-2.png" width="800" alt="SiteForge main window">
 
 ### Default keyboard shortcuts
 
@@ -132,6 +134,8 @@ SiteForge stores all of its settings in `~/.config/SiteForge/`:
 
 Use **File > Backup Configuration...** to save all of this into a single ZIP file. To reset SiteForge, close it and rename the `~/.config/SiteForge` folder.
 
+
+<img src="screenshots/screenshot-3.png" width="800" alt="SiteForge main window">
 ---
 
 ## Building the standalone program
