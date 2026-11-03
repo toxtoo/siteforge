@@ -174,7 +174,6 @@ install.sh          installer included in the download
 
 - Linux only. Some default paths (such as the browser locations) assume a typical Linux layout.
 - Document Weight does not count images that are referenced only from inside a CSS file.
-- The snippet editor has a Shortcut box, but snippet shortcuts do not trigger anything yet. Insert snippets by double-clicking them in the Snippets panel.
 - Spell checking only covers HTML and text files, not CSS or JavaScript.
 
 ---
