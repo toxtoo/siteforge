@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <title>Preview in browser</title>
+  <!-- Document with folded corner -->
+  <path d="M3 1.5H12L17 6.5V18.5H3Z"
+        fill="#ffffff" stroke="#30343b" stroke-width="1.3"
+        stroke-linejoin="round"/>
+  <path d="M12 1.8V6.5H16.7"
+        fill="#dce2eb" stroke="#30343b" stroke-width="1.1"
+        stroke-linejoin="round"/>
+  <!-- Magnifying glass -->
+  <circle cx="8" cy="10.5" r="3.4"
+          fill="#e8f2ff" stroke="#2456c7" stroke-width="1.5"/>
+  <path d="M10.5 13L13 15.5"
+        fill="none" stroke="#2456c7" stroke-width="1.8"
+        stroke-linecap="round"/>
+  <!-- Downward arrow, separate from the folded corner -->
+  <path d="M14.8 9.2V12.1M13.6 11L14.8 12.3L16 11"
+        fill="none" stroke="#2456c7" stroke-width="1.3"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
